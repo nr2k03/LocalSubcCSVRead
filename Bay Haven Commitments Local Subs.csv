@@ -1,0 +1,640 @@
+﻿Number,Contract Company,Contract Type,Title,ERP Status,Status,Executed,Original Contract Amount,Approved Change Orders,Revised Contract Amount,Pending Change Orders,Draft Change Orders,Invoiced,Payments Issued,% Paid,Remaining Balance Outstanding,Signatures Required,Private,Vendor,Primary Contact,Vendor Zip Code,Vendor Street,Vendor State,Company Name,Vendor Fax,Vendor Phone,Project Number,Project Name,Vendor City,Email Address,Description,Signed Contract Received Date,Article 4 Subcontractor Bond,Article 8.4.1 Completed Operations Limit,Article 8.4.1 General Aggregate Limit,Article 8.5.1 Umbrella Limit,ME&S License Holder Name
+PO-003,,Purchase Order,Subcontractor PO,Not Ready,Draft,No,1600,0,1600,0,0,0,0,0,1600,,Yes,,,,,,"McIntyre Elwell & Strammer General Contractors, Inc.",,,MES-23-015,Bay Haven Bldg 1 Construction,,,"<p>Provide all labor, materials, and equipment required to completely furnish and install all ___________work, and to include all accessories required for a complete and proper installation, as required by and in strict accordance with the Contract Documents, this Purchase Order, and scope of work defined herein.</p>
+<p> </p>
+<p><em><strong><span style=""font-size:9.5pt;"">ALL SITE WORKERS MUST BE COMPLIANT WITH THE JESSICA LUNSFORD ACT, WHICH REQUIRES A LEVEL II BACKGROUND CHECK</span></strong></em></p>
+<p><span style=""font-size:9.5pt;""> </span></p>",,,,,,
+PO-004,,Purchase Order,Material PO,Not Ready,Draft,No,0,0,0,0,0,0,0,0,0,,Yes,,,,,,"McIntyre Elwell & Strammer General Contractors, Inc.",,,MES-23-015,Bay Haven Bldg 1 Construction,,,"<p>Provide all <strong>(SCOPE)</strong> materials as required by and in strict accordance with the Contract Documents, this Purchase Order, and scope of work defined herein.</p>
+<p> </p>
+<p> </p>",,,,,,Mark Freeman
+SC-004,,Subcontract,SALES TAX SAVINGS /PP BOND ,Not Ready,Draft,No,0,0,0,0,0,0,0,0,0,,Yes,,,,,,"McIntyre Elwell & Strammer General Contractors, Inc.",,,MES-23-015,Bay Haven Bldg 1 Construction,,,"<p>SALES TAX SAVINGS / P&amp;P BOND (IF NECESSARY)</p>
+<p> </p>
+<p>Subcontractor:</p>
+<p>Scope / Title:</p>
+<p>Cost Code:</p>
+<p>Amount:</p>
+<p> </p>
+<p>Subcontractor Bond: Yes / No</p>
+<p> </p>
+<p>Insurance Limits:</p>
+<p>Up to $249,999: General Aggregate / Completed Operations Limits - $1M/$1M</p>
+<p>$250,000-$399,999: General Aggregate / Completed Operations Limits - $2M/$2M, Umbrella $2M</p>
+<p>$400,000 and Above: General Aggregate / Completed Operations Limits - $2M/$2M, Umbrella $5M</p>",,,,,,
+23015.001,"Michael J. Looney, Inc.",Subcontract,Electrical,Synced,Approved,Yes,465853.75,2848598.65,3314452.4,0,0,0,0,0,3314452.4,,Yes,"Michael J. Looney, Inc.",,34223,150 N Indiana Ave,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",941-475-1852,941-474-3104,MES-23-015,Bay Haven Bldg 1 Construction,Englewood,,"<p><strong><span style=""font-size:12.0pt;"">Bay Haven Portables</span></strong></p>
+<p><strong><span style=""font-size:12.0pt;"">Job #23-015 Sub Job 010</span></strong></p>
+<p><strong><span style=""font-size:12.0pt;""> </span></strong></p>
+<p><strong><em>Michael J. Looney, Inc.</em></strong></p>
+<p><span style=""font-size:9.0pt;"">Scope of work:                                                                     </span><span style=""font-size:9.0pt;"">Electrical</span></p>
+<p><span style=""font-size:9.0pt;"">Subcontract Amount: </span>                                           <span style=""font-size:9.0pt;"">$465,853.75</span></p>
+<p><span style=""font-size:9.0pt;"">Subcontractor Bond Required: </span>                               <span style=""font-size:9.0pt;"">Yes</span></p>
+<p><span style=""font-size:9.0pt;"">Cost Code: </span>                                                        <span style=""font-size:9.0pt;"">16100<br></span></p>
+<p>Insurance Limits:</p>
+<p> </p>
+<p>$400,000 and Above: General Aggregate / Completed Operations Limits - $2M/$2M, Umbrella $5M</p>
+<p><span style=""font-size:9.0pt;""> </span></p>",11/9/2022,IS,"$2,000,000 ","$2,000,000 ","$5,000,000 ",Mark Freeman
+23015.002,"LT Plumbing, LLC",Subcontract,Plumbing,Synced,Approved,Yes,69970,425233.98,495203.98,0,0,0,0,0,495203.98,,Yes,"LT Plumbing, LLC",,34221,1504 18th Ave Dr E,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",941-721-3222,941-729-1111,MES-23-015,Bay Haven Bldg 1 Construction,Palmetto,,"<p><span style=""font-size:8.5pt;"">Subcontractor:               LT PLUMBING</span></p>
+<p><span style=""font-size:8.5pt;"">Scope / Title:                 PLUMBING         </span></p>
+<p><span style=""font-size:8.5pt;"">Cost Code:                    15-400  </span></p>
+<p><span style=""font-size:8.5pt;"">Amount:                        $69,970.00</span></p>
+<p><span style=""font-size:8.5pt;""> </span></p>
+<p><span style=""font-size:8.5pt;"">Subcontractor Bond:       No</span></p>
+<p><span style=""font-size:8.5pt;""> </span></p>
+<p><span style=""font-size:8.5pt;"">Insurance Limits:    </span>Up to $249,999: General Aggregate / Completed Operations Limits - $1M/$1M</p>
+<p> </p>",11/17/2022,IS NOT,"$1,000,000 ","$1,000,000 ","$1,000,000 ",Josh Tomlinson
+23015.5,"Universal Engineering Science, LLC",Purchase Order,Geotechnical,Synced,Approved,Yes,1600,0,1600,0,0,0,0,0,1600,,Yes,"Universal Engineering Science, LLC",,32865-8734,"
+PO Box 628734",FL,"McIntyre Elwell & Strammer General Contractors, Inc.",407-423-3106,407-423-0504,MES-23-015,Bay Haven Bldg 1 Construction,Orlando,,"<p>Provide all labor, materials, and equipment required to completely furnish and install all <strong>geotechnical </strong>work, and to include all accessories required for a complete and proper installation, as required by and in strict accordance with the Contract Documents, this Purchase Order, and scope of work defined herein. Includes (6) hand borings as determined by the structural engineer and provision of a geotechnical report. </p>
+<p> </p>
+<p><em><strong><span style=""font-size:9.5pt;"">ALL SITE WORKERS MUST BE COMPLIANT WITH THE JESSICA LUNSFORD ACT, WHICH REQUIRES A LEVEL II BACKGROUND CHECK</span></strong></em></p>
+<p><span style=""font-size:9.5pt;""> </span></p>",11/16/2022,,,,,
+23015.501,Jay's Fencing LLC,Purchase Order,Temporary Fencing,Synced,Approved,Yes,875,36335,37210,0,0,0,0,0,37210,,Yes,Jay's Fencing LLC,,34241,6640 Ibis St,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",941-955-3085,941-955-3053,MES-23-015,Bay Haven Bldg 1 Construction,Sarasota,jaysfencing@live.com,"<p> </p>
+<p>Provide all labor, materials, and equipment required to relocate temporary fencing, and to include all accessories required for a complete and proper installation, as required by and in strict accordance with the Contract Documents, this Purchase Order, and scope of work defined herein.</p>
+<p> </p>
+<p><em><strong><span style=""font-size:9.5pt;"">ALL SITE WORKERS MUST BE COMPLIANT WITH THE JESSICA LUNSFORD ACT, WHICH REQUIRES A LEVEL II BACKGROUND CHECK</span></strong></em></p>",1/6/2023,,,,,
+23015.502,Mark Williams Construction,Purchase Order,Form Sidewalk,Synced,Approved,Yes,2221,0,2221,0,0,0,0,0,2221,,Yes,Mark Williams Construction,,34240,"Company, Inc.
+8191 Blaikie Ct  Suite A",FL,"McIntyre Elwell & Strammer General Contractors, Inc.",941-378-1997,941-378-2477,MES-23-015,Bay Haven Bldg 1 Construction,Sarasota,,"<p><span style=""font-size:10pt;"">Provide all labor, materials, and equipment to patch back sidewalks for plumbing installation. Includes approximately 250SF in (6) different locations, and to include all accessories required for a complete and proper installation, as required by and in strict accordance with Purchase Order, and scope of work defined herein.</span></p>
+<p> </p>
+<p><em><strong><span style=""font-size:9.5pt;"">ALL SITE WORKERS MUST BE COMPLIANT WITH THE JESSICA LUNSFORD ACT, WHICH REQUIRES A LEVEL II BACKGROUND CHECK</span></strong></em></p>
+<p><span style=""font-size:9.5pt;""> </span></p>",1/12/2023,,,,,
+23015.503,"Forristall Enterprises, Inc.",Purchase Order,Demo Finishes & Abatement,Synced,Approved,Yes,13890,0,13890,0,0,0,0,0,13890,,Yes,"Forristall Enterprises, Inc.",,34203,2712 63rd Ave E,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",941-729-7345,941-729-8150,MES-23-015,Bay Haven Bldg 1 Construction,Bradenton,,<p>Provide all labor and equipment to demo finishes and provide abatement in Room 115.</p>,2/16/2023,,,,,
+23015.003,"Duncan Seawall, Dock &",Subcontract, Walkway,Synced,Approved,Yes,64800,400,65200,0,0,0,0,0,65200,,Yes,"Duncan Seawall, Dock &",,34234,"Boat Lift, LLC
+1714 Independence Blvd",FL,"McIntyre Elwell & Strammer General Contractors, Inc.",941-351-3378,941-351-1553,MES-23-015,Bay Haven Bldg 1 Construction,Sarasota,,"<p><span style=""text-decoration:underline;"">CE #006 - Walkway</span></p>
+<p>Please do this SC to Duncan per Greg Schlabach</p>
+<p><span style=""font-size:8.5pt;"">Subcontractor:               Duncan Seawall, Dock &amp; Boat Lift, LLC</span></p>
+<p><span style=""font-size:8.5pt;"">Scope / Title:                 Walkway           </span></p>
+<p><span style=""font-size:8.5pt;"">Cost Code:                    02-100  SJ 010</span></p>
+<p><span style=""font-size:8.5pt;"">Amount:                        $64,800.00</span></p>
+<p><span style=""font-size:8.5pt;""> </span></p>
+<p><span style=""font-size:8.5pt;"">Subcontractor Bond:       No</span></p>
+<p><span style=""font-size:8.5pt;""> </span></p>
+<p><span style=""font-size:8.5pt;"">Insurance Limits:</span></p>
+<p><span style=""font-size:8.5pt;"">Up to $249,999: General Aggregate / Completed Operations Limits - $1M/$1M</span></p>",4/4/2023,IS NOT,"$1,000,000 ","$1,000,000 ","$1,000,000 ",Josh Tomlinson
+23015.004,"B&I Contractors, Inc.",Subcontract,HVAC Early Release,Synced,Approved,Yes,1286740,-31766.82,1254973.18,0,0,0,0,0,1254973.18,,Yes,"B&I Contractors, Inc.",,33916-5529,2701 Prince Street,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",239-332-3185,239-332-4646,MES-23-015,Bay Haven Bldg 1 Construction,Ft. Myers,,"<p><strong><span style=""font-size:12.0pt;"">Bay Haven Early Release</span></strong></p>
+<p><strong><span style=""font-size:12.0pt;"">Job #23-015 </span></strong></p>
+<p><strong><span style=""font-size:12.0pt;""> </span></strong></p>
+<p>Subcontractor:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><em><strong><span style=""color:#e03e2d;"">B&amp;I Contractors</span></strong></em></p>
+<p>Scope / Title:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">  <span style=""color:#ff0000;""> </span></span><strong><span style=""color:#ff0000;"">HVAC </span></strong></p>
+<p>Cost Code:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">  010.</span><strong><span style=""color:#ff0000;"">15600</span></strong></p>
+<p>Amount:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><strong><span style=""color:#ff0000;"">$1,286,740.00</span></strong></p>
+<p> </p>
+<p>Subcontractor Bond: <strong><span style=""color:#e03e2d;"">Yes/No</span></strong></p>
+<p> </p>
+<p>Insurance Limits:<span class=""mce-nbsp-wrap"">   </span>$400,000 and Above: General Aggregate / Completed Operations Limits - $2M/$2M, Umbrella $5M<br><br><br><br><br></p>",6/27/2023,IS,"$2,000,000 ","$2,000,000 ","$5,000,000 ",Mark Freeman
+23015.005,"MMP Contracting, LLC",Subcontract,Concrete,Synced,Approved,Yes,43754,6153,49907,0,0,0,0,0,49907,,Yes,"MMP Contracting, LLC",,34202,10206 Clubhouse Dr,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",,941-685-8512,MES-23-015,Bay Haven Bldg 1 Construction,Bradenton,ben-peacock@outlook.com,"<p><strong><span style=""font-size:12.0pt;"">Bay Haven Early Release</span></strong></p>
+<p><strong><span style=""font-size:12.0pt;"">Job #23-015 Sub Job 010</span></strong></p>
+<p><strong><span style=""font-size:12.0pt;""> </span></strong></p>
+<p><span style=""font-size:12pt;"">Subcontractor:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">  MMP Contracting, LLP</span></span></p>
+<p><span style=""font-size:12pt;"">Scope / Title:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span style=""color:#000000;""><em><strong>Concrete</strong></em></span></span></p>
+<p><span style=""font-size:12pt;"">Cost Code:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap""> <em>  010.</em></span><span style=""color:#000000;""><em>03-300</em></span></span></p>
+<p><span style=""font-size:12pt;"">Amount:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">  <span style=""color:#000000;""> </span></span><span style=""color:#000000;"">$43,754.00</span></span></p>
+<p><span style=""font-size:12pt;""> </span></p>
+<p><span style=""font-size:12pt;"">Subcontractor Bond: <span style=""color:#000000;""><strong>No</strong></span></span></p>
+<p><span style=""font-size:12pt;""> </span></p>
+<p><span style=""font-size:12pt;"">Insurance Limits:   Up to $249,999: General Aggregate / Completed Operations Limits - $1M/$1M</span><br><br><br><br><br></p>",6/14/2023,IS NOT,"$1,000,000 ","$1,000,000 ","$1,000,000 ",Josh Tomlinson
+23015.006,Crowther Roofing &,Subcontract,Accessories & Toilet Compartme,Synced,Approved,Yes,88575,0,88575,0,0,0,0,0,88575,,Yes,Crowther Roofing &,,33916,"Sheet Metal of Florida, Inc.
+2543 Rockfill Rd",FL,"McIntyre Elwell & Strammer General Contractors, Inc.",239-332-0939,239--337-1300,MES-23-015,Bay Haven Bldg 1 Construction,Ft. Myers,,"<p><strong><span style=""font-size:12.0pt;"">Bay Haven Early Release</span></strong></p>
+<p><strong><span style=""font-size:12.0pt;"">Job #23-015 </span></strong></p>
+<p><strong><span style=""font-size:12.0pt;""> </span></strong></p>
+<p>Subcontractor:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   Crowther Roofing</span></p>
+<p>Scope / Title:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   Toilet Accessories</span></p>
+<p>Cost Code:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span>010.10180</p>
+<p>Amount:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span>$88,575.00</p>
+<p> </p>
+<p>Subcontractor Bond: <strong><span style=""color:#e03e2d;"">No</span></strong></p>
+<p><br>Insurance Limits:   Up to $249,999: General Aggregate / Completed Operations Limits - $1M/$1M</p>
+<p><br><br><br><br></p>",7/22/2024,IS NOT,"$1,000,000 ","$1,000,000 ","$1,000,000 ",Josh Tomlinson
+23015.007,Dolphin Innovations LLC,Subcontract,Metal Framing & Drywall,Synced,Approved,Yes,36540,757126.05,793666.05,0,0,0,0,0,793666.05,,Yes,Dolphin Innovations LLC,,34240,252 Field End St,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",941-379-0505,941-379-9995,MES-23-015,Bay Haven Bldg 1 Construction,Sarasota,,"<p><strong><span style=""font-size:12.0pt;"">Bay Haven Early Release</span></strong></p>
+<p><strong><span style=""font-size:12.0pt;"">Job #23-015 </span></strong></p>
+<p><strong><span style=""font-size:12.0pt;""> </span></strong></p>
+<p><span style=""font-size:12pt;"">Subcontractor:   <strong><span style=""color:#ff0000;"">Dolphin Innovations</span></strong><br>Scope / Title:     <span style=""color:#ff0000;""> Metal Framing &amp; Drywall</span></span></p>
+<p><span style=""font-size:12pt;"">Cost Code:        <span style=""color:#ff0000;""> 010.09-260</span></span></p>
+<p><span style=""font-size:12pt;"">Amount:           <span style=""color:#ff0000;""> $36,000.00</span></span></p>
+<p><span style=""font-size:12pt;""> </span></p>
+<p><span style=""font-size:12pt;"">Subcontractor Bond: No</span></p>
+<p><span style=""font-size:12pt;""> </span></p>
+<p><span style=""font-size:12pt;"">Insurance Limits:      Up to $249,999: General Aggregate / Completed Operations Limits - $1M/$1M</span></p>
+<p><span style=""font-size:12pt;""><strong><em> </em></strong></span></p>
+<p><strong><em><span style=""font-size:9.0pt;""> </span></em></strong></p>
+<p> </p>",6/15/2023,IS NOT,"$1,000,000 ","$1,000,000 ","$1,000,000 ",Josh Tomlinson
+23015.008,Gyp-Tech,Subcontract, Gypsum Concrete ,Synced,Approved,Yes,7855.78,1470,9325.78,0,0,0,0,0,9325.78,,Yes,Gyp-Tech,,34990,7446 SW 39th St,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",772-223-9381,772-223-9380,MES-23-015,Bay Haven Bldg 1 Construction,Palm City,,"<p><strong><em><span style=""font-size:9.0pt;""> </span></em></strong><strong><em><span style=""font-size:9.0pt;""> </span></em></strong></p>
+<p><strong><span style=""font-size:12.0pt;"">Bay Haven Early Release</span></strong></p>
+<p><strong><span style=""font-size:12.0pt;"">Job #23-015 Sub Job 010</span></strong></p>
+<p><span style=""font-size:14pt;""><strong> </strong></span></p>
+<p><span style=""font-size:14pt;"">Subcontractor:   <span style=""color:#ff0000;"">Gyp-Tech<br></span>Scope / Title:      <span style=""color:#ff0000;"">Gypsum Concrete </span><br>Cost Code:        <span style=""color:#ff0000;""> 010.03-510</span></span></p>
+<p><span style=""font-size:14pt;"">Amount:            <span style=""color:#ff0000;"">$7,855.78</span></span></p>
+<p><span style=""font-size:14pt;""> </span></p>
+<p><span style=""font-size:14pt;"">Subcontractor Bond: No</span></p>
+<p><span style=""font-size:14pt;""> </span></p>
+<p><span style=""font-size:14pt;"">Insurance Limits:   Up to $249,999: General Aggregate / Completed Operations Limits - $1M/$1M</span></p>
+<p><span style=""font-size:14pt;""><strong><em> </em></strong></span></p>
+<p> </p>
+<p><strong><em><span style=""font-size:9.0pt;""> </span></em></strong></p>",2/29/2024,IS NOT,"$1,000,000 ","$1,000,000 ","$1,000,000 ",Mark Freeman
+23015.009,"Just Steel, Inc.",Subcontract,Structural Steel ,Synced,Approved,Yes,127500,7108.07,134608.07,0,0,0,0,0,134608.07,,Yes,"Just Steel, Inc.",,34243,3100 Whitfield Ave Unit B,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",941-755-7822,941-755-7811,MES-23-015,Bay Haven Bldg 1 Construction,Sarasota,,"<p><span style=""font-size:14pt;"">Subcontractor:         <span style=""color:#ff0000;"">JUST STEEL</span></span></p>
+<p><span style=""font-size:14pt;"">Scope / Title:            <span style=""color:#ff0000;"">Structural Steel</span></span><br><span style=""font-size:14pt;"">Cost Code:        <span style=""color:#ff0000;"">       010.05-100</span></span></p>
+<p><span style=""font-size:14pt;"">Amount:                  <span style=""color:#ff0000;"">$305,910.00  (revised amt:  $127,500.00 1/15/23)</span></span></p>
+<p><span style=""font-size:14pt;""> </span></p>
+<p> </p>
+<p><span style=""font-size:14pt;"">Subcontractor Bond:    Yes/No</span></p>
+<p> </p>
+<p><span style=""font-size:14pt;""> </span></p>
+<p><span style=""font-size:14pt;""><strong><em> </em></strong></span></p>",1/18/2024,IS NOT,"$1,000,000 ","$1,000,000 ","$1,000,000 ",Mark Freeman
+23015.01,"Key Glass, Inc.",Subcontract,Storefront & Windows,Synced,Approved,Yes,1028000,-322421.55,705578.45,0,0,0,0,0,705578.45,,Yes,"Key Glass, Inc.",,34203,2312 58th Ave E,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",941-751-0074,941-755-3414,MES-23-015,Bay Haven Bldg 1 Construction,Bradenton,,"<p><strong><span style=""font-size:12.0pt;"">Bay Haven Early Release</span></strong></p>
+<p><strong><span style=""font-size:12.0pt;"">Job #23-015 Sub Job 010</span></strong></p>
+<p><strong><span style=""font-size:12.0pt;""> </span></strong></p>
+<p>Subcontractor:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   <span style=""color:#ff0000;"">Key Glass</span></span></p>
+<p>Scope / Title:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">  <span style=""color:#ff0000;""> </span></span><span style=""color:#ff0000;""><strong>STOREFRONT AND GLAZING</strong></span></p>
+<p>Cost Code:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><strong><span style=""color:#ff0000;"">010.</span></strong></p>
+<p>Amount:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><strong><span style=""color:#ff0000;"">$1,028,000.00</span></strong></p>
+<p> </p>
+<p>Subcontractor Bond: <strong><span style=""color:#e03e2d;"">Yes</span></strong></p>
+<p> </p>
+<p>Insurance Limits:<span class=""mce-nbsp-wrap"">   </span>$400,000 and Above: General Aggregate / Completed Operations Limits - $2M/$2M, Umbrella $5M<br><br><br><br><br></p>",7/12/2023,IS,"$2,000,000 ","$2,000,000 ","$5,000,000 ",Mark Freeman
+23015.011,"Piper Fire Protection, LLC",Subcontract,Fire Sprinklers,Synced,Approved,Yes,12000,252350,264350,0,0,0,0,0,264350,,Yes,"Piper Fire Protection, LLC",,33764,13075 US HWY 19 N,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",727-581-8332,727-581-9339,MES-23-015,Bay Haven Bldg 1 Construction,Clearwater,,"<p><strong><span style=""font-size:12.0pt;"">Bay Haven Early Release</span></strong></p>
+<p><strong><span style=""font-size:12.0pt;"">Job #23-015 </span></strong></p>
+<p><span style=""font-size:14pt;""><strong> </strong></span></p>
+<p><span style=""font-size:14pt;"">Subcontractor:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">  <span style=""color:#000000;"">Piper Fire</span></span></span></p>
+<p><span style=""font-size:14pt;"">Scope / Title:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   <span style=""color:#000000;"">Fire Sprinkler</span></span></span></p>
+<p><span style=""font-size:14pt;"">Cost Code:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">  <span style=""color:#000000;""> 1</span></span><span style=""color:#000000;"">5-510</span></span></p>
+<p><span style=""font-size:14pt;"">Amount:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap""> <span style=""color:#ff0000;""> <span style=""color:#000000;""> </span></span></span><span style=""color:#000000;"">$12,000.00</span></span></p>
+<p><span style=""font-size:14pt;""> </span></p>
+<p><span style=""font-size:14pt;"">Subcontractor Bond: <span style=""color:#000000;""><strong>No</strong></span></span></p>
+<p><br><span style=""font-size:14pt;"">Insurance Limits:   Up to $249,999: General Aggregate / Completed Operations Limits - $1M/$1M</span></p>
+<p><br><br></p>",7/13/2023,IS NOT,"$1,000,000 ","$1,000,000 ","$1,000,000 ",Josh Tomlinson
+23015.012,Schindler Elevator Corporation,Subcontract,Elevators,Synced,Approved,Yes,104000,18877,122877,0,0,0,0,0,122877,,Yes,Schindler Elevator Corporation,,60673-0433,PO Box 70433,IL,"McIntyre Elwell & Strammer General Contractors, Inc.",973-397-6367,888-730-3573,MES-23-015,Bay Haven Bldg 1 Construction,Chicago,,"<p><span style=""font-size:10pt;""><strong>Bay Haven Early Release               </strong></span><strong>Job #23-015 Sub Job 010</strong></p>
+<p><span style=""font-size:10pt;""><strong> </strong></span></p>
+<p><span style=""font-size:10pt;"">Subcontractor:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   <span style=""color:#ff0000;"">Schindler Elevator</span></span></span></p>
+<p><span style=""font-size:10pt;"">Scope / Title:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">  <span style=""color:#ff0000;""> Elevator</span></span></span></p>
+<p><span style=""font-size:10pt;"">Cost Code:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span style=""color:#ff0000;"">14-200</span></span></p>
+<p><span style=""font-size:10pt;"">Amount:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">  <span style=""color:#ff0000;""> </span></span><span style=""color:#ff0000;"">$104,000.00</span></span></p>
+<p><span style=""font-size:10pt;""> </span></p>
+<p><span style=""font-size:10pt;"">Subcontractor Bond: <strong>No</strong></span></p>
+<p><br><span style=""font-size:10pt;"">Insurance Limits:   Up to $249,999: General Aggregate / Completed Operations Limits - $1M/$1M</span></p>
+<p><br><br></p>",10/1/2023,IS NOT,"$1,000,000 ","$1,000,000 ","$1,000,000 ",Mark Freeman
+23015.013,Spectra Contract Flooring,Subcontract,Hard Tile,Synced,Approved,Yes,27948.07,77516.15,105464.22,0,0,0,0,0,105464.22,,Yes,Spectra Contract Flooring,,33605,1802 Grant St  Ste 200,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",941-351-7740,941-351-7710,MES-23-015,Bay Haven Bldg 1 Construction,Tampa,,"<p><strong><span style=""font-size:12.0pt;"">Bay Haven Early Release</span></strong></p>
+<p><strong><span style=""font-size:12.0pt;"">Job #23-015 Sub Job 010</span></strong></p>
+<p><strong><span style=""font-size:12.0pt;""> </span></strong></p>
+<p><span style=""font-size:14pt;"">Subcontractor:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">  <span style=""color:#ff0000;""> SPECTRA CONTRACT</span></span></span></p>
+<p><span style=""font-size:14pt;"">Scope / Title:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   <span style=""color:#ff0000;"">Hard Tile</span></span></span></p>
+<p><span style=""font-size:14pt;"">Cost Code:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span style=""color:#ff0000;"">010.09-300</span></span></p>
+<p><span style=""font-size:14pt;"">Amount:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span style=""color:#ff0000;"">$27,948.07</span></span></p>
+<p><span style=""font-size:14pt;""> </span></p>
+<p><span style=""font-size:14pt;"">Subcontractor Bond: <strong>No</strong></span></p>
+<p><br><span style=""font-size:14pt;"">Insurance Limits:   Up to $249,999: General Aggregate / Completed Operations Limits - $1M/$1M</span></p>
+<p><br><br><br><br></p>",7/24/2023,IS NOT,"$1,000,000 ","$1,000,000 ","$1,000,000 ",Josh Tomlinson
+23015.014,"Suncoast Commercial Door & Hardware, Inc.",Subcontract,Doors & Hardware ,Synced,Approved,Yes,67857.54,91085.46,158943,0,0,0,0,0,158943,,Yes,"Suncoast Commercial Door & Hardware, Inc.",,34240,1862 Apex Road,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",941-927-1090,941-927-1080,MES-23-015,Bay Haven Bldg 1 Construction,Sarasota,sales@suncoastcommercialdoor.com,"<p><strong><span style=""font-size:12.0pt;"">Bay Haven Early Release</span></strong></p>
+<p><strong><span style=""font-size:12.0pt;"">Job #23-015 Sub Job 010</span></strong></p>
+<p><strong><span style=""font-size:12.0pt;""> </span></strong></p>
+<p><span style=""font-size:14pt;"">Subcontractor:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">  <span style=""color:#ff0000;"">Suncoast Commerical</span></span></span></p>
+<p><span style=""font-size:14pt;"">Scope / Title:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   <span style=""color:#ff0000;"">Doors &amp; Hardware</span></span></span></p>
+<p><span style=""font-size:14pt;"">Cost Code:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap""> <span style=""color:#ff0000;"">  </span></span><span style=""color:#ff0000;""><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span>010.08-100</span><br>Amount:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span style=""color:#ff0000;"">$67,857.54</span></span></p>
+<p><span style=""font-size:14pt;""> </span></p>
+<p><span style=""font-size:14pt;"">Subcontractor Bond: <strong>No</strong></span></p>
+<p><br><span style=""font-size:14pt;"">Insurance Limits:   Up to $249,999: General Aggregate / Completed Operations Limits - $1M/$1M</span></p>
+<p><br><br><br><br></p>",6/21/2023,IS NOT,"$1,000,000 ","$1,000,000 ","$1,000,000 ",Josh Tomlinson
+23015.015,Sutter Roofing Co. of FL SRQ,Subcontract,Roofing,Synced,Approved,Yes,174984,-6264,168720,0,0,0,0,0,168720,,Yes,Sutter Roofing Co. of FL SRQ,,34240,8284 Vico Court,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",941-377-4499,941-377-1000,MES-23-015,Bay Haven Bldg 1 Construction,Sarasota,,"<p><strong><span style=""font-size:12.0pt;"">Bay Haven Early Release</span></strong></p>
+<p><strong><span style=""font-size:12.0pt;"">Job #23-015 Sub Job 020</span></strong></p>
+<p><strong><span style=""font-size:12.0pt;""> </span></strong></p>
+<p><span style=""font-size:14pt;"">Subcontractor:<span class=""mce-nbsp-wrap""> <span style=""color:#ff0000;"">  </span></span><span class=""mce-nbsp-wrap"" style=""color:#ff0000;"">   Sutter Roofing</span></span></p>
+<p><span style=""font-size:14pt;"">Scope / Title:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">  <span style=""color:#ff0000;""> Roofing</span></span></span></p>
+<p><span style=""font-size:14pt;"">Cost Code:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap""> <span style=""color:#ff0000;""> </span></span><br>                           <span style=""color:#ff0000;""> 010.07-270S    $174,984.00</span><br></span></p>
+<p><span style=""font-size:14pt;""> </span></p>
+<p><span style=""font-size:14pt;""> </span></p>
+<p><span style=""font-size:14pt;"">Subcontractor Bond: <strong>No</strong></span></p>
+<p><br><span style=""font-size:14pt;"">Insurance Limits:   Up to $249,999: General Aggregate / Completed Operations Limits - $1M/$1M</span></p>
+<p><br><br><br><br></p>",3/27/2024,IS NOT,"$1,000,000 ","$1,000,000 ","$1,000,000 ",Mark Freeman
+23015.016,"Tailored Foam of Florida, LLC",Subcontract,Building Insulation Foam,Synced,Approved,Yes,204036,-14213,189823,0,0,0,0,0,189823,,Yes,"Tailored Foam of Florida, LLC",,32771,3900 St. Johns Pkwy,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",407-830-9174,407-332-0333,MES-23-015,Bay Haven Bldg 1 Construction,Sanford,ar@tailoredfoaminc.com,"<p><strong><span style=""font-size:12.0pt;"">Bay Haven Early Release</span></strong></p>
+<p><strong><span style=""font-size:12.0pt;"">Job #23-015 Sub Job 010</span></strong></p>
+<p><span style=""font-size:14pt;""><strong> </strong></span></p>
+<p><span style=""font-size:14pt;"">Subcontractor:   <span style=""color:#ff0000;"">Tailored Foam<br></span>Scope / Title:     <span style=""color:#ff0000;"">Building Insulation Foam</span><br>Cost Code:  010.07-214.S      <span style=""color:#ff0000;""> </span></span></p>
+<p><span style=""font-size:14pt;"">Amount: $204,036.00        </span></p>
+<p><span style=""font-size:14pt;""> </span></p>
+<p><span style=""font-size:14pt;"">Subcontractor Bond: YES</span></p>
+<p><span style=""font-size:14pt;""> </span></p>
+<p><span style=""font-size:14pt;"">Insurance Limits:   Up to $249,999: General Aggregate / Completed Operations Limits - $1M/$1M</span></p>
+<p><span style=""font-size:14pt;""><strong><em> </em></strong></span></p>
+<p> </p>",3/21/2024,IS NOT,"$1,000,000 ","$1,000,000 ","$1,000,000 ",Mark Freeman
+23015.017,"Forristall Enterprises, Inc.",Subcontract,Demolition ,Synced,Approved,Yes,465150,227854.75,693004.75,0,0,0,0,0,693004.75,,Yes,"Forristall Enterprises, Inc.",,34203,2712 63rd Ave E,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",941-729-7345,941-729-8150,MES-23-015,Bay Haven Bldg 1 Construction,Bradenton,,"<p><strong><span style=""font-size:12.0pt;"">Bay Haven Early Release</span></strong></p>
+<p><strong><span style=""font-size:12.0pt;"">Job #23-015 </span></strong></p>
+<p><strong><span style=""font-size:12.0pt;""> </span></strong></p>
+<p><span style=""font-size:12pt;"">Subcontractor:<span class=""mce-nbsp-wrap""> <span style=""color:#ff0000;"">  </span></span><span class=""mce-nbsp-wrap"" style=""color:#ff0000;"">   <span style=""color:#000000;""><strong>Forristall</strong></span></span></span></p>
+<p><span style=""font-size:12pt;"">Scope / Title:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap""> <strong>  </strong></span><strong><span class=""mce-nbsp-wrap"">  <span style=""color:#000000;""> Demolition </span></span></strong></span></p>
+<p><span style=""font-size:12pt;"">Cost Code:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span style=""color:#000000;""><strong>010.02100</strong></span></span></p>
+<p><span style=""font-size:12pt;"">Amount:<span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap"">   </span><span class=""mce-nbsp-wrap""> <span style=""color:#000000;"">  </span></span><span style=""color:#000000;""><strong>$465,150.00</strong></span></span></p>
+<p><span style=""font-size:12pt;""> </span></p>
+<p><span style=""font-size:12pt;"">Subcontractor Bond:<span style=""color:#000000;""> <strong>Yes</strong></span></span></p>
+<p> </p>
+<p>Insurance Limits:<span class=""mce-nbsp-wrap"">   </span>$400,000 and Above: General Aggregate / Completed Operations Limits - $2M/$2M, Umbrella $5M<br><br><br><br><br></p>",6/21/2023,IS,"$2,000,000 ","$2,000,000 ","$2,000,000 ",Mark Freeman
+23015.019,Service Contracting Solutions,Subcontract,Painting,Synced,Approved,Yes,3168,327465.56,330633.56,0,0,0,0,0,330633.56,,Yes,Service Contracting Solutions,,33913,10090 Amberwood Road,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",,239-939-7622,MES-23-015,Bay Haven Bldg 1 Construction,Ft. Myers,,"<p><strong><span style=""font-size:12.0pt;"">Bay Haven Early Release</span></strong></p>
+<p><strong><span style=""font-size:12.0pt;"">Job #23-015 Sub Job 010</span></strong></p>
+<p><span style=""font-size:14pt;""><strong> </strong></span></p>
+<p><span style=""font-size:14pt;"">Subcontractor:   SERVICE CONTRACTING SOLUTION<span style=""color:#ff0000;""><br></span>Scope / Title:     Painting <span style=""color:#ff0000;"">Early Release 1B</span><br>Cost Code:         010.09-900        <span style=""color:#ff0000;""> </span></span></p>
+<p><span style=""font-size:14pt;"">Amount:   $3,168.00</span></p>
+<p><span style=""font-size:14pt;""> </span></p>
+<p><span style=""font-size:14pt;"">Subcontractor Bond: No</span></p>
+<p><span style=""font-size:14pt;""> </span></p>
+<p><span style=""font-size:14pt;"">Insurance Limits:   Up to $249,999: General Aggregate / Completed Operations Limits - $1M/$1M</span></p>
+<p><span style=""font-size:14pt;""><strong><em> </em></strong></span></p>",7/19/2023,IS NOT,"$1,000,000 ","$1,000,000 ","$1,000,000 ",Josh Tomlinson
+23015.504,"Just Steel, Inc.",Purchase Order,Ledger Angles,Synced,Approved,Yes,5385.55,10548.57,15934.12,0,0,0,0,0,15934.12,,Yes,"Just Steel, Inc.",,34243,3100 Whitfield Ave Unit B,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",941-755-7822,941-755-7811,MES-23-015,Bay Haven Bldg 1 Construction,Sarasota,,"<p><br>Provide all Ledger Angles materials as required by and in strict accordance with the Contract Documents, this Purchase Order, and scope of work defined herein per RFI #2.</p>
+<ul>
+<li>40  ea. 5/8 x 6 Simpson Titen Anchor</li>
+<li>50 ea. Flat head (socket Bolts 5/8"" - 11 x 4"" long</li>
+<li>50 ea. 5/8-11 Hex Nut (Plain)</li>
+<li>50 ea. 5/8"" Split lock washers (HDG)</li>
+<li>2 ea. Structural Angle L7x4x3/8"" x 20'-0""</li>
+<li>1 ea. processed plate</li>
+<li>4 pieces of bent plate 3/8"" x10""x5""x10'-0"" long</li>
+</ul>
+<p> </p>
+<p> </p>
+<p style=""text-align:center;""><span style=""font-size:8pt;""><em><strong>ALL SITE WORKERS MUST BE COMPLIANT WITH THE JESSICA LUNSFORD ACT, WHICH REQUIRES A LEVEL II BACKGROUND CHECK</strong></em></span></p>",7/18/2023,,,,,
+23015.505,Agriscapes LLC,Purchase Order,Portables Sod,Synced,Approved,Yes,2100,24476,26576,0,0,0,0,0,26576,,Yes,Agriscapes LLC,,34266-3944,121 S Orange Ave,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",,941-932-3050,MES-23-015,Bay Haven Bldg 1 Construction,Arcadia,,"<p>Furnish and install sod per the direction of the ME&amp;S project Superintendent up to seven (7) pallets. Sod species to be Bahia. Includes rolling of sod upon completion for a flat and level surface. Sod to be installed with tight joints to the satisfaction of the project Superintendent. Includes all material offloading, storage, handling, and miscellaneous fine grading as required.</p>
+<p> </p>
+<p style=""text-align:center;""><span style=""font-size:8pt;""><em><strong>ALL SITE WORKERS MUST BE COMPLIANT WITH THE JESSICA LUNSFORD ACT, WHICH REQUIRES A LEVEL II BACKGROUND CHECK</strong></em></span></p>",7/25/2023,,,,,
+23015.02,Fabrication Maintenance &,Subcontract,Wall Bracing,Synced,Approved,Yes,227635.62,-222389.62,5246,0,0,0,0,0,5246,,Yes,Fabrication Maintenance &,,33868,"Construction, LLC
+PO Box 164",FL,"McIntyre Elwell & Strammer General Contractors, Inc.",,863-934-5255,MES-23-015,Bay Haven Bldg 1 Construction,Polk City,,,8/2/2023,IS NOT,"$1,000,000 ","$1,000,000 ","$1,000,000 ",Mark Freeman
+23015.021,"Acousti Engineering Co. of Florida, Inc. -Tampa",Subcontract,Acoustical Ceilings,Synced,Approved,Yes,61699,2110,63809,0,0,0,0,0,63809,,Yes,"Acousti Engineering Co. of Florida, Inc. -Tampa",,33687-0889,PO Box 290889,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",813-628-4310,(813) 620-0718,MES-23-015,Bay Haven Bldg 1 Construction,Tampa,,"<div style=""text-align:right;"">
+<p style=""text-align:left;""><span style=""font-size:8.5pt;"">Subcontractor:                         Acousti</span></p>
+<p style=""text-align:left;""><span style=""font-size:8.5pt;"">Scope / Title:                             Acoustical Ceilings</span></p>
+<p style=""text-align:left;""><span style=""font-size:8.5pt;"">Cost Code:                                010.09510</span></p>
+<p style=""text-align:left;""><span style=""font-size:8.5pt;"">Amount:                                    $61,699.00</span></p>
+<p style=""text-align:left;""><span style=""font-size:8.5pt;""> </span></p>
+<p style=""text-align:left;""><span style=""font-size:8.5pt;"">Subcontractor Bond:          Yes / NO?</span></p>
+<p style=""text-align:left;""><span style=""font-size:8.5pt;""> </span></p>
+<p style=""text-align:left;""><span style=""font-size:8.5pt;"">Insurance Limits:               </span>Up to $249,999: General Aggregate / Completed Operations Limits - $1M/$1M</p>
+</div>",11/22/2023,IS NOT,"$1,000,000 ","$1,000,000 ","$1,000,000 ",Mark Freeman
+23015.022,"Commercial Plastering USA, LLC",Subcontract,Stucco,Synced,Approved,Yes,324300,426989.67,751289.67,0,0,0,0,0,751289.67,,Yes,"Commercial Plastering USA, LLC",,34208,212 7th St E,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",941-748-4322,941-748-0772,MES-23-015,Bay Haven Bldg 1 Construction,Bradenton,,"<p><span style=""font-size:8.5pt;"">Subcontractor:                        Commercial Plastering</span></p>
+<p><span style=""font-size:8.5pt;"">Scope / Title:                           Smooth Stucco over Existing ?  Acoustical Ceilings</span></p>
+<p><span style=""font-size:8.5pt;"">Cost Code:                                010.09-100</span></p>
+<p><span style=""font-size:8.5pt;"">Amount:                                    $324,300</span></p>
+<p><span style=""font-size:8.5pt;""> </span></p>
+<p><span style=""font-size:8.5pt;"">Subcontractor Bond:                Yes - 2%</span></p>
+<p><span style=""font-size:8.5pt;""> </span></p>
+<p> </p>",12/20/2023,IS,"$2,000,000 ","$2,000,000 ","$2,000,000 ",Mark Freeman
+23015.026,"Graber's Excavating, Inc.",Subcontract,Sitework,Synced,Approved,Yes,147354,89465.88,236819.88,0,0,0,0,0,236819.88,,Yes,"Graber's Excavating, Inc.",,34240,13407 N Branch Rd,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",,941-378-2133,MES-23-015,Bay Haven Bldg 1 Construction,Sarasota,,"<p><span style=""font-size:14pt;"">Subcontractor:                  Graber Excavating</span></p>
+<p><span style=""font-size:14pt;"">Scope / Title:                    <span style=""color:#ff0000;"">Sitework</span></span></p>
+<p><span style=""font-size:14pt;"">Cost Code:                       <span style=""color:#ff0000;"">010.02-540</span></span></p>
+<p><span style=""font-size:14pt;"">Amount:                          <span style=""color:#ff0000;"">$147,354</span></span></p>
+<p><span style=""font-size:14pt;""> </span></p>
+<p><span style=""font-size:14pt;"">Subcontractor Bond:       NO</span></p>
+<p><span style=""font-size:14pt;""> </span></p>
+<p><span style=""font-size:14pt;"">Insurance Limits:   Up to $249,999: General Aggregate / Completed Operations Limits - $1M/$1M</span></p>",11/21/2023,IS NOT,"$1,000,000 ","$1,000,000 ","$1,000,000 ",Mark Freeman
+23015.024,"EasyTurf, Inc.",Subcontract,New Turf,Not Ready,Void,No,0,0,0,0,0,0,0,0,0,,Yes,"EasyTurf, Inc.",,,,,"McIntyre Elwell & Strammer General Contractors, Inc.",,,MES-23-015,Bay Haven Bldg 1 Construction,,,"<p><span style=""font-size:12pt;color:#ff0000;"">Subcontractor:                      EasyTurf</span></p>
+<p><span style=""font-size:12pt;color:#ff0000;"">Scope / Title:                            New Turf             Canceled scope per Kevin Hyson 2-17-25</span></p>
+<p><span style=""font-size:12pt;color:#ff0000;"">Cost Code:                                010.</span></p>
+<p><span style=""font-size:12pt;color:#ff0000;"">Amount:                                    $205,766.00</span></p>
+<p><span style=""font-size:12pt;color:#ff0000;""> </span></p>
+<p><span style=""font-size:12pt;color:#ff0000;"">Subcontractor Bond:                   no</span></p>
+<p><span style=""font-size:12pt;color:#ff0000;""> </span></p>
+<p><span style=""font-size:14pt;color:#ff0000;"">Insurance Limits:            Up to $249,999: General Aggregate / Completed Operations Limits - $1M/$1M</span></p>",,IS NOT,"$1,000,000 ","$1,000,000 ","$1,000,000 ",Josh Tomlinson
+23015.029,"MMP Contracting, LLC",Subcontract,Concrete,Synced,Approved,Yes,961828,498990,1460818,0,0,0,0,0,1460818,,Yes,"MMP Contracting, LLC",,34202,10206 Clubhouse Dr,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",,941-685-8512,MES-23-015,Bay Haven Bldg 1 Construction,Bradenton,ben-peacock@outlook.com,"<p><span style=""font-size:14pt;""><em></em>Subcontractor:                    MMP Contracting</span></p>
+<p><span style=""font-size:14pt;"">Scope / Title:                      <span style=""color:#ff0000;"">Concrete</span></span></p>
+<p><span style=""font-size:14pt;"">Cost Code:                          <span style=""color:#ff0000;"">010.03-300</span></span></p>
+<p><span style=""font-size:14pt;"">Amount:                             <span style=""color:#ff0000;"">$893,974.00 new amount $961,828.00</span></span></p>
+<p><span style=""font-size:14pt;""> </span></p>
+<p><span style=""font-size:14pt;"">Subcontractor Bond:            Yes</span></p>
+<p><span style=""font-size:14pt;""> </span></p>
+<p><span style=""font-size:14pt;"">Insurance Limits:           $400,000 and Above: General Aggregate / Completed Operations Limits - $2M/$2M, Umbrella $5M</span></p>",9/20/2023,IS,"$2,000,000 ","$2,000,000 ","$5,000,000 ",Mark Freeman
+23015.03,"Mullets Aluminum Products, Inc",Subcontract,Aluminum Hand & Guard Rails,Synced,Approved,Yes,59260,-4790,54470,0,0,0,0,0,54470,,Yes,"Mullets Aluminum Products, Inc",,34238,6345 McIntosh Rd,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",941-378-5676,941-371-3502,MES-23-015,Bay Haven Bldg 1 Construction,Sarasota,,"<p><span style=""font-size:12pt;"">Subcontractor:                       Mullet's Aluminum</span></p>
+<p><span style=""font-size:12pt;"">Scope / Title:                     <span style=""color:#ff0000;"">  Aluminum Handrails &amp; Guardrails</span></span></p>
+<p><span style=""font-size:12pt;"">Cost Code:                          <span style=""color:#ff0000;""> 010.05-520</span></span></p>
+<p><span style=""font-size:12pt;"">Amount:                           <span style=""color:#ff0000;"">   $59,260.00</span></span></p>
+<p><span style=""font-size:12pt;""> </span></p>
+<p><span style=""font-size:12pt;"">Subcontractor Bond:                NO</span></p>
+<p><span style=""font-size:12pt;""> </span></p>
+<p><span style=""font-size:14pt;"">Insurance Limits:   Up to $249,999: General Aggregate / Completed Operations Limits - $1M/$1M</span></p>",1/10/2024,IS NOT,"$1,000,000 ","$1,000,000 ","$1,000,000 ",Mark Freeman
+23015.025,Gemstone Concrete Coatings Inc,Subcontract,Deck Coating,Synced,Approved,Yes,114736,32746,147482,0,0,0,0,0,147482,,Yes,Gemstone Concrete Coatings Inc,,33762,10640 47th St N,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",,727-541-3194,MES-23-015,Bay Haven Bldg 1 Construction,Clearwater,,"<p><span style=""font-size:14pt;"">Subcontractor:                         GEMSTONE Concrete Coating</span></p>
+<p><span style=""font-size:14pt;"">Scope / Title:                          <span style=""color:#ff0000;""> Deck Coating</span></span></p>
+<p><span style=""font-size:14pt;"">Cost Code:                              <span style=""color:#ff0000;"">  010.09-700</span></span></p>
+<p><span style=""font-size:14pt;"">Amount:                                 <span style=""color:#ff0000;""> $114,736.00</span></span></p>
+<p><span style=""font-size:14pt;""> </span></p>
+<p><span style=""font-size:14pt;"">Subcontractor Bond:                NO</span></p>
+<p><span style=""font-size:14pt;""> </span></p>
+<p><span style=""font-size:14pt;"">Insurance Limits:   Up to $249,999: General Aggregate / Completed Operations Limits - $1M/$1M</span></p>
+<p> </p>",11/14/2023,IS NOT,"$1,000,000 ","$1,000,000 ","$1,000,000 ",Mark Freeman
+23015.027,"H & H Signs, Inc.",Subcontract,Signage,Synced,Approved,Yes,10937.54,3205.72,14143.26,0,0,0,0,0,14143.26,,Yes,"H & H Signs, Inc.",,34285,426 E. Venice Ave,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",941-484-8933,941-485-0556,MES-23-015,Bay Haven Bldg 1 Construction,Venice,,"<p><span style=""font-size:12pt;"">Subcontractor:                       H&amp;H signs</span></p>
+<p><span style=""font-size:12pt;"">Scope / Title:                        <span style=""color:#ff0000;""> Signage</span></span></p>
+<p><span style=""font-size:12pt;"">Cost Code:                            <span style=""color:#ff0000;"">010.10-400</span></span></p>
+<p><span style=""font-size:12pt;"">Amount:                              <span style=""color:#ff0000;""> $10,937.54</span></span></p>
+<p><span style=""font-size:12pt;""> </span></p>
+<p><span style=""font-size:12pt;"">Subcontractor Bond:             NO</span></p>
+<p><span style=""font-size:12pt;""> </span></p>
+<p><span style=""font-size:12pt;"">Insurance Limits:   Up to $249,999: General Aggregate / Completed Operations Limits - $1M/$1M</span></p>",12/12/2023,IS NOT,"$1,000,000 ","$1,000,000 ","$1,000,000 ",Mark Freeman
+23015.028,John Measel Cabinets,Subcontract,Casework & Cabinetry,Synced,Approved,Yes,400469,-20198.59,380270.41,0,0,0,0,0,380270.41,,Yes,John Measel Cabinets,,34240,1257 Porter Rd,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",941-378-0721,941-377-6029,MES-23-015,Bay Haven Bldg 1 Construction,Sarasota,,"<p><span style=""font-size:12pt;"">Subcontractor:                      John Measel</span></p>
+<p><span style=""font-size:12pt;"">Scope / Title:                        Casework &amp; Cabinetry</span></p>
+<p><span style=""font-size:12pt;"">Cost Code:                           010.06-400.S</span></p>
+<p><span style=""font-size:12pt;"">Amount:                              $400,469.00</span></p>
+<p><span style=""font-size:12pt;""> </span></p>
+<p><span style=""font-size:12pt;"">Subcontractor Bond:             Yes</span></p>
+<p><span style=""font-size:12pt;""> </span></p>
+<p><span style=""font-size:12pt;"">Insurance Limits:         </span><span style=""font-size:14pt;"">$400,000 and Above: General Aggregate / Completed Operations Limits - $2M/$2M, Umbrella $5M</span></p>
+<p><span style=""font-size:12pt;""><strong><em> </em></strong></span></p>",10/3/2023,IS,"$2,000,000 ","$2,000,000 ","$5,000,000 ",Mark Freeman
+23015.031,Peachtree Protective,Subcontract,Aluminum Canopy,Synced,Approved,Yes,32223,0,32223,0,0,0,0,0,32223,,Yes,Peachtree Protective,,30122,"Covers, Inc.
+3255 S Sweetwater Rd",GA,"McIntyre Elwell & Strammer General Contractors, Inc.",770-439-2122,770-439-2120,MES-23-015,Bay Haven Bldg 1 Construction,Lithia Springs,,"<p><span style=""font-size:14pt;"">Subcontractor:               Peachtree</span></p>
+<p><span style=""font-size:14pt;"">Scope / Title:                 <span style=""color:#ff0000;"">Aluminum Canopy</span></span></p>
+<p><span style=""font-size:14pt;"">Cost Code:                    <span style=""color:#ff0000;"">010.10-700</span></span></p>
+<p><span style=""font-size:14pt;"">Amount:                       <span style=""color:#ff0000;"">$32,223.00</span></span></p>
+<p><span style=""font-size:14pt;""> </span></p>
+<p><span style=""font-size:14pt;"">Subcontractor Bond:       no</span></p>
+<p><span style=""font-size:14pt;""> </span></p>
+<p><span style=""font-size:14pt;"">Insurance Limits:   </span><span style=""font-size:14pt;"">Up to $249,999: General Aggregate / Completed Operations Limits - $1M/$1M</span></p>
+<p> </p>",2/9/2024,IS NOT,"$1,000,000 ","$1,000,000 ","$1,000,000 ",Mark Freeman
+23015.032,Sarasota Blinds and Shutters,Subcontract,Shades,Synced,Approved,Yes,49781.48,-49781.48,0,0,0,0,0,0,0,,Yes,Sarasota Blinds and Shutters,,34232,3339 Spainwood Dr,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",,941-952-8966,MES-23-015,Bay Haven Bldg 1 Construction,Sarasota,,"<p><span style=""font-size:14pt;"">Subcontractor:                      Sarasota Blinds</span></p>
+<p><span style=""font-size:14pt;"">Scope / Title:                        <span style=""color:#ff0000;"">Roller Shades</span></span></p>
+<p><span style=""font-size:14pt;"">Cost Code:                            <span style=""color:#ff0000;"">010</span>.12-520.S</span></p>
+<p><span style=""font-size:14pt;"">Amount:                           <span style=""color:#ff0000;"">  $49,781.48</span></span></p>
+<p><span style=""font-size:14pt;""> </span></p>
+<p><span style=""font-size:14pt;"">Subcontractor Bond:             NO</span></p>
+<p><span style=""font-size:14pt;""> </span></p>
+<p><span style=""font-size:14pt;"">Insurance Limits:      Up to $249,999: General Aggregate / Completed Operations Limits - $1M/$1M</span></p>
+<p><span style=""font-size:14pt;""><strong><em> </em></strong></span></p>",11/15/2023,IS NOT,"$1,000,000 ","$1,000,000 ","$1,000,000 ",Mark Freeman
+23015.034,Smith Fence Company,Subcontract,Aluminum Entry Gate,Synced,Approved,Yes,35700,0,35700,0,0,0,0,0,35700,,Yes,Smith Fence Company,,33762,4699 110th Ave N,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",727-573-2075,727-573-5440,MES-23-015,Bay Haven Bldg 1 Construction,Clearwater,,"<div style=""padding-left:30px;"">
+<p><span style=""font-size:14pt;"">Subcontractor:                Smith Fence</span></p>
+<p><span style=""font-size:14pt;"">Scope / Title:                 <span style=""color:#ff0000;""> Aluminum Entry Gate</span></span></p>
+<p><span style=""font-size:14pt;"">Cost Code:                     <span style=""color:#ff0000;"">010.05-500.S</span></span></p>
+<p><span style=""font-size:14pt;"">Amount:                       <span style=""color:#ff0000;"">$35,700.00</span></span></p>
+<p><span style=""font-size:14pt;""> </span></p>
+<p><span style=""font-size:14pt;"">Subcontractor Bond:       NO</span></p>
+<p><span style=""font-size:14pt;""> </span></p>
+<p><span style=""font-size:14pt;"">Insurance Limits:   </span><span style=""font-size:14pt;"">Up to $249,999: General Aggregate / Completed Operations Limits - $1M/$1M</span></p>
+</div>",6/10/2024,IS NOT,"$1,000,000 ","$1,000,000 ","$1,000,000 ",Josh Tomlinson
+23015.035,Windemuller Technical Services,Subcontract,Lightning Protection Bldg 5,Synced,Approved,Yes,16592,0,16592,0,0,0,0,0,16592,,Yes,Windemuller Technical Services,,34234,1611 Northgate Blvd,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",941-359-1219,941-355-8822,MES-23-015,Bay Haven Bldg 1 Construction,Sarasota,,"<p><span style=""font-size:8.5pt;"">Subcontractor:                         Windemuller </span></p>
+<p><span style=""font-size:8.5pt;"">Scope / Title:                            Lightning Protection</span></p>
+<p><span style=""font-size:8.5pt;"">Cost Code:                                010.16-610.S</span></p>
+<p><span style=""font-size:8.5pt;"">Amount:                                    $16,592.00</span></p>
+<p><span style=""font-size:8.5pt;""> </span></p>
+<p><span style=""font-size:8.5pt;"">Subcontractor Bond:          NO</span></p>
+<p><span style=""font-size:8.5pt;""> </span></p>
+<p><span style=""font-size:8.5pt;"">Insurance Limits:      </span>Up to $249,999: General Aggregate / Completed Operations Limits - $1M/$1M</p>
+<p> </p>",11/18/2024,IS NOT,"$1,000,000 ","$1,000,000 ","$1,000,000 ",Josh Tomlinson
+23015.506,Snell Engineering Consultants,Purchase Order,Structural Design Services,Synced,Approved,Yes,8800,0,8800,0,0,0,0,0,8800,,Yes,Snell Engineering Consultants,,34236,1517 State Street #202,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",941-256-3773,941-954-0681,MES-23-015,Bay Haven Bldg 1 Construction,Sarasota,,"<p>Provide field inspection services for all existing wood joists in Bay Haven building #1 proposed to remain. Upon review, provide all required design for repair and remediation of joists as required. Includes all site visits as necessary to review joists per phasing schedule established by ME&amp;S. <br><br><br><span style=""font-size:8pt;""><em><strong><br>ALL SITE WORKERS MUST BE COMPLIANT WITH THE JESSICA LUNSFORD ACT, WHICH REQUIRES A LEVEL II BACKGROUND CHECK</strong></em></span></p>",8/21/2023,,,,,
+23015.507,"Dansco Engineering, LLC",Purchase Order,Shoring Design - New Openings,Synced,Approved,Yes,2612.5,8262.5,10875,0,0,0,0,0,10875,,Yes,"Dansco Engineering, LLC",,33572,5924 Fortune Place,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",,813-645-0166,MES-23-015,Bay Haven Bldg 1 Construction,Apollo Beach,,"<p><span style=""font-size:8pt;""><br>Provide structural shoring design as required to safely modify existing wall openings or create new ones for each of the below conditions:</span></p>
+<p><span style=""font-size:8pt;"">1.    Expand the existing masonry (clay tile) door openings to receive new structural jambs.<br>2.    Create openings for new doors in clay tile walls.<br>3.    Create new “window” openings at the breezeway side of the existing rooms in clay tile walls.<br></span></p>
+<p><span style=""font-size:8pt;""> </span></p>
+<p><span style=""font-size:8pt;"">Includes complete structural shoring design with specification of shoring members, fasteners, fastener spacing, etc. as required for a complete constructible design. Includes signed and sealed engineered documents. </span></p>
+<p><span style=""font-size:8pt;""> </span></p>
+<p><span style=""font-size:8pt;""> </span></p>
+<p><span style=""font-size:8pt;""><em><strong>ALL SITE WORKERS MUST BE COMPLIANT WITH THE JESSICA LUNSFORD ACT, WHICH REQUIRES A LEVEL II BACKGROUND CHECK</strong></em></span></p>",8/21/2023,,,,,
+23015.508,"Geosurv, LLC",Purchase Order,Survey Services,Synced,Approved,Yes,0,0,0,0,0,0,0,0,0,,Yes,"Geosurv, LLC",,34207,"Surveying & Mapping
+5707 19th St W",FL,"McIntyre Elwell & Strammer General Contractors, Inc.",866-624-5163,877-407-3734,MES-23-015,Bay Haven Bldg 1 Construction,Bradenton,info@geosurveygroup.com,"<p>Provide survey services based on the Geoserv Specific Purpose Survey proposal dated 8/16/23. Includes all survey services required for the project to be billed at the rates established by this proposal. Survey services to be provided as requested by ME&amp;S personnel throughout the course of the project. All billable time conducting field work to be verified by ME&amp;S personnel upon completion of the work.</p>
+<p> </p>
+<p> </p>
+<p style=""text-align:center;""><em><strong>ALL SITE WORKERS MUST BE COMPLIANT WITH THE JESSICA LUNSFORD ACT, WHICH REQUIRES A LEVEL II BACKGROUND CHECK</strong></em></p>
+<p> </p>",8/21/2023,,,,,
+23015.036,Service Contracting Solutions,Subcontract,Waterproofing,Synced,Approved,Yes,132584,-82621,49963,0,0,0,0,0,49963,,Yes,Service Contracting Solutions,,33913,10090 Amberwood Road,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",,239-939-7622,MES-23-015,Bay Haven Bldg 1 Construction,Ft. Myers,,"<p><span style=""font-size:14pt;"">Subcontractor:   SERVICE CONTRACTING SOLUTIONS<span style=""color:#ff0000;""><br></span>Scope / Title:     <span style=""color:#e03e2d;"">Waterproofing</span><strong><span style=""color:#e03e2d;""> </span></strong><br>Cost Code:         <span style=""color:#e03e2d;"">010.07-100.S</span></span></p>
+<p><span style=""font-size:14pt;"">Amount:   $132,584.00</span></p>
+<p><span style=""font-size:14pt;""> </span></p>
+<p>Subcontractor Bond: No</p>
+<p> </p>
+<p>Insurance Limits:</p>
+<p>Up to $249,999: General Aggregate / Completed Operations Limits - $1M/$1M</p>
+<p> </p>",11/6/2023,IS NOT,"$1,000,000 ","$1,000,000 ","$1,000,000 ",Mark Freeman
+23015.509,"Sunbelt Rentals, Inc. (Cs)",Purchase Order,Shoring Rental,Synced,Approved,Yes,0,0,0,0,0,0,0,0,0,,Yes,"Sunbelt Rentals, Inc. (Cs)",,32809,"Attn:Theresa Davidson
+2015 Directors Row",FL,"McIntyre Elwell & Strammer General Contractors, Inc.",407-992-3391,800-508-4756,MES-23-015,Bay Haven Bldg 1 Construction,Orlando,,"<p>Provide all shoring material rental based on Sunbelt Rental contract #144294268 as required by and in strict accordance with the Contract Documents, this Purchase Order, and scope of work defined herein.</p>
+<ol>
+<li>Includes all quoted materials of quantities indicated.</li>
+<li>Includes delivery of all shoring material in single shipment. Shoring to deliver before 9/15/23. </li>
+<li>All rented equipment to be in sound, usable condition. Should any equipment be delivered in a condition that is not usable, the equipment shall be replaced at no cost. </li>
+<li>Includes pick up of shoring material upon completion.</li>
+<li>Shoring package rental shall be billed as follows:
+<ul>
+<li>$3,456.61 per Month</li>
+<li>Partial month to be billed per Sunbelt Day or Week rental rates stated on #144294268.</li>
+</ul>
+</li>
+<li>Rental duration shall be one month minimum. Anticipated duration is four months.</li>
+</ol>
+<br><br>
+<p style=""text-align:center;""><span style=""font-size:8pt;""><em><strong>ALL SITE WORKERS MUST BE COMPLIANT WITH THE JESSICA LUNSFORD ACT, WHICH REQUIRES A LEVEL II BACKGROUND CHECK</strong></em></span></p>",12/18/2023,,,,,
+23015.51,"Sunbelt Rentals, Inc. (Cs)",Purchase Order,Stair Tower Rental ,Synced,Approved,Yes,0,0,0,0,0,0,0,0,0,,Yes,"Sunbelt Rentals, Inc. (Cs)",,32809,"Attn:Theresa Davidson
+2015 Directors Row",FL,"McIntyre Elwell & Strammer General Contractors, Inc.",407-992-3391,800-508-4756,MES-23-015,Bay Haven Bldg 1 Construction,Orlando,,"<p>Provide all labor, materials, and equipment required to completely furnish and install the following work, and to include all accessories required for a complete and proper installation, as required by and in strict accordance with this Purchase Order, and scope of work defined herein at Bay Haven School.</p>
+<ol>
+<li>Furnish, install and dismantle 7' wide x 15' long x 19' high stair tower. Includes all labor, material and equipment for a complete stair tower assembly.</li>
+<li>Includes coordination with ME&amp;S superintendent for stair tower layout, landing heights, orientation, etc. </li>
+<li>Includes delivery and pickup. Sunbelt to handle, stack, and palletize all materials as required for haul away. Includes all equipment necessary to transport material and load on and off of trailer. </li>
+<li>Stair tower materials to be in a sound and safe condition upon installation. </li>
+<li>Stair tower rental shall be invoiced as follows:
+<ul>
+<li>Equipment Rental: (4 week min.) $913.96* <br>Daily Rental: (after initial 4 weeks) $33.25* <br>Erection Price:  $1,591.20* <br>Dismantle Price: $1060.80* <br>Misc./Sales:   $120.00* <br>Freight: (P/U-Del) $700.00* </li>
+<li>* Plus applicable sales tax</li>
+</ul>
+</li>
+</ol>
+<p> </p>
+<p style=""text-align:center;""><span style=""font-size:8pt;""><em><strong>ALL SITE WORKERS MUST BE COMPLIANT WITH THE JESSICA LUNSFORD ACT, WHICH REQUIRES A LEVEL II BACKGROUND CHECK</strong></em></span></p>",12/15/2023,,,,,
+23015.511,"Universal Engineering Science, LLC",Purchase Order,Soil & Concrete Testing,Synced,Approved,Yes,0,0,0,0,0,0,0,0,0,,Yes,"Universal Engineering Science, LLC",,32865-8734,"
+PO Box 628734",FL,"McIntyre Elwell & Strammer General Contractors, Inc.",407-423-3106,407-423-0504,MES-23-015,Bay Haven Bldg 1 Construction,Orlando,,"<em><strong>Provide all labor, materials and equipment required to perform all soil and concrete testing services per UES proposal dated 9/8/2023.<br><br><br></strong></em>",10/2/2023,,,,,
+23015.512,"Ground Penetrating Radar Systems, Inc.",Purchase Order,GPRS Services 11/29/2023,Synced,Approved,Yes,1025,3300,4325,0,0,0,0,0,4325,,Yes,"Ground Penetrating Radar Systems, Inc.",,43697,"PO Box 932
+5217 Monroe Street
+",OH,"McIntyre Elwell & Strammer General Contractors, Inc.",419-843-5829,419-843-9804,MES-23-015,Bay Haven Bldg 1 Construction,Toledo,,<p>Provide ground penetrating radar services performed on 11/29/23 per GPRS work order #614447 at Bay Haven. </p>,12/19/2023,,,,,
+23015.513,BIS Services,Purchase Order,Shoring,Synced,Approved,Yes,9689.92,10556.13,20246.05,0,0,0,0,0,20246.05,,Yes,BIS Services,,34715,"Barton Industrial Scaffold SvcLLC
+20403 Sugarloaf Mountain Rd",FL,"McIntyre Elwell & Strammer General Contractors, Inc.",,863-844-2959,MES-23-015,Bay Haven Bldg 1 Construction,Clermont,,"<p>Provide labor material and equipment to furnish, erect and remove shoring to include:</p>
+<ul>
+<li>1<sup>st</sup> floor (8) 2’x2’x10’ tall system towers with aluminum beams</li>
+<li>2<sup>nd</sup> floor (5) 2’x4’x10’ system towers with aluminum beams  </li>
+</ul>",1/17/2024,,,,,
+23015.037,Tremblay Wood Art,Subcontract,"Wood Ceiling, Wall and Bench",Synced,Approved,Yes,80642,0,80642,0,0,0,0,0,80642,,Yes,Tremblay Wood Art,,34229,862 S Tamiami Trail,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",,941-302-0533,MES-23-015,Bay Haven Bldg 1 Construction,Osprey,,"<p><span style=""color:#ff0000;""><strong><em><span style=""font-size:9.0pt;"">$80,642.00</span></em></strong></span></p>
+<p> </p>
+<p><span style=""color:#ff0000;""><strong><em><span style=""font-size:9.0pt;"">CC 010.06-550.S</span></em></strong></span></p>",3/4/2024,IS NOT,"$1,000,000 ","$1,000,000 ","$1,000,000 ",Mark Freeman
+23015.038,Distinctive Surfaces of,Subcontract,Solid Surface Sill,Synced,Approved,Yes,49500,350,49850,0,0,0,0,0,49850,,Yes,Distinctive Surfaces of,,34240,"Florida, Inc.
+8272 Vico Court",FL,"McIntyre Elwell & Strammer General Contractors, Inc.",941-377-7997,941-377-7747,MES-23-015,Bay Haven Bldg 1 Construction,Sarasota,,"<p>Subcontractor:              Distinctive Surfaces of Florida, Inc.</p>
+<p>Scope / Title:                Solid Surface Sills</p>
+<p>Cost Code:                   010.06-400.S</p>
+<p>Amount:                      $49,500</p>
+<p> </p>
+<p>Subcontractor Bond:       No</p>
+<p> </p>
+<p>Insurance Limits:      Up to $249,999: General Aggregate / Completed Operations Limits - $1M/$1M</p>",5/3/2024,IS NOT,"$1,000,000 ","$1,000,000 ","$1,000,000 ",Josh Tomlinson
+23015.514,Clifton Steel,Purchase Order,WonderTiles,Synced,Approved,Yes,1546.22,0,1546.22,0,0,0,0,0,1546.22,,Yes,Clifton Steel,,44137,16500 Rockside Road,OH,"McIntyre Elwell & Strammer General Contractors, Inc.",216-662-6107,216-662-6111,MES-23-015,Bay Haven Bldg 1 Construction,Maple Heights,,"<p>Furnish and deliver the following:</p>
+<p> </p>
+<ul>
+<li>Quantity (8) WonderTile - .25"" Thk. Ballistic Panel w/ mounting holes</li>
+<li>CL-7805 Powdercoated all surfaces - Wrinkle Finish Black</li>
+<li>Provide shop drawings for approval</li>
+</ul>",8/27/2024,,,,,
+23015.515,Pinecraft Scaffolding Inc,Purchase Order,Elevator Tower Scaffolding,Synced,Approved,Yes,6715.8,0,6715.8,0,0,0,0,0,6715.8,,Yes,Pinecraft Scaffolding Inc,,34240,1972 Barber Rd,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",941-378-4412,941-378-4411,MES-23-015,Bay Haven Bldg 1 Construction,Sarasota,,"<p>Provide all labor, material and equipment as required to install scaffolding for the elevator tower per Pinecraft bid #2677 as established by site visit with Project Superintendent on 5/10/24. </p>
+<ol>
+<li>Provide system stair tower and scaffolding to 24'</li>
+<li>Includes all equipment handling and equipment required for installation</li>
+<li>Includes all labor to erect and dismantle at completion of rental duration</li>
+<li>Rental rates shall be established by bid #2677 unit rates</li>
+<li>Erection to commence Wednesday 5/15/24</li>
+</ol>
+<br>
+<div style=""text-align:center;""><span style=""font-size:24pt;""><span style=""color:#ff0000;"">RECD WET SIGNED 7/15/2024</span></span></div>",7/15/2024,,,,,
+23015.516,"Doudney Sheet Metal Works, Inc",Purchase Order,Fabricated Scuppers,Synced,Approved,Yes,11560,6150,17710,0,0,0,0,0,17710,,Yes,"Doudney Sheet Metal Works, Inc",,34232,715 Gantt Ave,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",941-377-3460,(941) 371-4800,MES-23-015,Bay Haven Bldg 1 Construction,Sarasota,,<p>Furnish (40) stainless steel fabricated scuppers. Scuppers to be continuously welded. All scuppers to be fabricated equal to the approved mock-up. Includes all necessary labor and material to correct defects should they be present. </p>,5/20/2024,,,,,
+23015.039,SASS Shutters and Sunshades,Subcontract,Roller Shades ,Synced,Approved,Yes,64328,0,64328,0,0,0,0,0,64328,,Yes,SASS Shutters and Sunshades,,34236,"Florida LLC
+97 S Pineapple Ave",FL,"McIntyre Elwell & Strammer General Contractors, Inc.",,941-770-7277,MES-23-015,Bay Haven Bldg 1 Construction,Sarasota,,,6/7/2024,IS NOT,"$1,000,000 ","$1,000,000 ","$1,000,000 ",Josh Tomlinson
+23015.517,"Doudney Sheet Metal Works, Inc",Purchase Order, Electrical Enclosure,Synced,Approved,Yes,2350,0,2350,0,0,0,0,0,2350,,Yes,"Doudney Sheet Metal Works, Inc",,34232,715 Gantt Ave,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",941-377-3460,(941) 371-4800,MES-23-015,Bay Haven Bldg 1 Construction,Sarasota,,"<p>Furnish and install electrical enclosure box to contain wall mounted electrical switches. Includes field measuring and installation. Enclosure to be painted black. Includes hinged door, open back, and all miscellaneous hardware and accessories for a lockable cube enclosure. </p>
+<p style=""text-align:center;""><br><br><span style=""font-size:8pt;""><em><strong>ALL SITE WORKERS MUST BE COMPLIANT WITH THE JESSICA LUNSFORD ACT, WHICH REQUIRES A LEVEL II BACKGROUND CHECK</strong></em></span></p>",6/18/2024,,,,,
+23015.518,New View Cleaning Services Inc,Purchase Order,Final Cleaning,Synced,Approved,Yes,8400,200,8600,0,0,0,0,0,8600,,Yes,New View Cleaning Services Inc,,34222-4008,2411 10th St Ct E Unit B,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",941-955-4090,941-955-4060,MES-23-015,Bay Haven Bldg 1 Construction,Ellenton,,"<p><span style=""font-size:8pt;""><br>Provide final cleaning services for Bay Haven Phase #1. Final cleaning shall include:</span></p>
+<p> </p>
+<p><span style=""font-size:8pt;"">Final and touch up cleaning of remodeled wings of school, approx. 14,000 sq. ft. to include the following:</span></p>
+<ul>
+<li><span style=""font-size:8pt;"">Windows &amp; frames in, out &amp; between, two story. Exterior to be done via separate mobilization</span></li>
+<li><span style=""font-size:8pt;"">Wipe all doors &amp; hardware</span></li>
+<li><span style=""font-size:8pt;"">Detail clean all bathrooms</span></li>
+<li><span style=""font-size:8pt;"">Clean all mechanical, AC and equipment rooms</span></li>
+<li><span style=""font-size:8pt;"">Detail clean all cabinets inside &amp; out on all sides. </span></li>
+<li><span style=""font-size:8pt;"">Dust accent walls (dark colors)</span></li>
+<li><span style=""font-size:8pt;"">Baseboards</span></li>
+<li><span style=""font-size:8pt;"">Electrical fixtures and a/c vents in ceilings</span></li>
+<li><span style=""font-size:8pt;"">Vacuum carpets</span></li>
+<li><span style=""font-size:8pt;"">Vacuum &amp; mop all hard surface floors</span></li>
+<li><span style=""font-size:8pt;"">Polish all stainless equipment in kitchen </span></li>
+<li><span style=""font-size:8pt;"">Sweep out all storage areas and hallways</span></li>
+<li><span style=""font-size:8pt;"">In halls clean lights, stairways, railings and fixturing</span></li>
+<li><span style=""font-size:8pt;"">Polish thresholds</span></li>
+<li><span style=""font-size:8pt;"">Clean all window sills</span></li>
+<li><span style=""font-size:8pt;"">Includes all components of a complete construction clean</span></li>
+<li><span style=""font-size:8pt;"">First clean to occur by 7/18/24, final clean to occur by 8/8/24. </span></li>
+<li>
+<span style=""font-size:8pt;"">Includes option 1: Exterior window clean $700.00</span><br>
+<p> </p>
+<p style=""text-align:center;""><em><strong><span style=""font-size:9.5pt;""><br><span style=""font-size:8pt;"">ALL SITE WORKERS MUST BE COMPLIANT WITH THE JESSICA LUNSFORD ACT, WHICH REQUIRES A LEVEL II BACKGROUND CHECK</span><br></span></strong></em></p>
+</li>
+</ul>",8/22/2024,,,,,
+23015.033,"Trimak Building Systems, Inc.",Subcontract,Building #5 Furnish and Erect,Synced,Approved,Yes,184626.53,5400,190026.53,0,0,0,0,0,190026.53,,Yes,"Trimak Building Systems, Inc.",,33563,2502 Frontage Park Place,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",,813-800-4766,MES-23-015,Bay Haven Bldg 1 Construction,Plant City,,"<p><span style=""text-decoration:underline;"">CE #170 - Building #5 Furnish and Erect</span></p>
+<p>Subcontract to Trimak.</p>
+<p> </p>
+<p>Amount: $184,626.53</p>
+<p>CC: 010.13-640.S</p>
+<p> </p>
+<p>Schedule attached</p>
+<p>Use original contract documents</p>
+<p> </p>
+<ol>
+<li><span style=""font-size:9.0pt;"">Provide all labor, materials and equipment to completely design, engineer, furnish, and erect Bay Haven building #5 covered play structure.</span></li>
+<li><span style=""font-size:9.0pt;"">Includes complete shop drawing and calculation preparation signed and sealed by a registered Florida Professional Engineer. Includes all necessary drawing revisions required by owner and EOR required to meet the design intent. </span></li>
+<li><span style=""font-size:9.0pt;"">Furnish all anchor bolts to be set by others. </span></li>
+<li><span style=""font-size:9.0pt;"">Includes roof insulation and liner panels. VRR R-16 insulation with 26 Ga liner panels.</span></li>
+<li><span style=""font-size:9.0pt;"">All finish selections to be made by AOR via shop drawing, submittal, and sample selection.</span></li>
+<li><span style=""font-size:9.0pt;"">Includes galvanization of all structural steel, including, but not limited to, mainframes, purlins, girts, and miscellaneous metals. </span></li>
+<li><span style=""font-size:9.0pt;"">Includes all gutters and downspouts. Includes calculations for necessary downspout / gutter quantity and size. </span></li>
+<li><span style=""font-size:9.0pt;"">Building design to be in strict accordance with structural engineer of record design parameters set forth by the project specifications and or structural design documents. Reference contract documents exhibit. </span></li>
+<li><span style=""font-size:9.0pt;"">Includes all specified warranties.</span></li>
+<li><span style=""font-size:9.0pt;"">Includes all necessary equipment for erection. </span></li>
+<li><span style=""font-size:9.0pt;"">Includes verification of anchor bolt layout prior to concrete pour by others. </span></li>
+<li><span style=""font-size:9.0pt;"">Includes all necessary engineering and provisions for fans to be installed by others. Loads to be provided. </span></li>
+<li><span style=""font-size:9.0pt;"">Includes all incidentals required for the complete and proper installation of your work scope. </span></li>
+<li><span style=""font-size:9.0pt;"">All layout and establishment of elevations required for the complete and proper installation of your work scope. Benchmark to be provided by others. </span></li>
+<li><span style=""font-size:9.0pt;"">Includes offloading, staging and installation of building insulation. Delivery date to be coordinated with ME&amp;S. Includes all necessary temporary weather protection, if required. </span></li>
+<li><span style=""font-size:9.0pt;"">It is understood that this facility is to remain in operation during construction. All necessary measures will be taken to eliminate impacts to the operations of the facility to the extent possible.</span></li>
+<li><span style=""font-size:9.0pt;"">Buildings to comply with standard FBC requirements for building load and deflection.  </span></li>
+<li><span style=""font-size:9.0pt;"">Includes inventory of all metal building materials upon delivery.</span></li>
+<li><span style=""font-size:9.0pt;"">Material shall be stored on dunnage without contact with the ground.</span></li>
+<li>Includes the following alternates:
+<ol>
+<li>Trapezoidal standing seam roof, color selection by Architect (standard color, solar white or equal) ADD $10,558.33</li>
+<li>Seamer rental ADD $1,500.00</li>
+<li>Remobilization for liners following electrical rough-in ADD $2,500.00</li>
+</ol>
+</li>
+</ol>",8/28/2024,IS NOT,"$1,000,000 ","$1,000,000 ","$1,000,000 ",Mark Freeman
+23015.519,Florida Chalkboard Co.,Purchase Order,Markerboards and Tackboards,Synced,Approved,Yes,36000,0,36000,0,0,0,0,0,36000,,Yes,Florida Chalkboard Co.,,32703,PO Box 1360,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",407-889-4378,407-889-0087,MES-23-015,Bay Haven Bldg 1 Construction,Apopka,sales@floridachalkboard.com,"<p><span style=""font-size:8pt;"">Furnish and deliver the following. All material to be in strict accordance with approved submittals.  </span></p>
+<p><span style=""font-size:8pt;""> </span></p>
+<ol>
+<li><span style=""font-size:8pt;"">(26) Claridge wall mounted 4'x8' Markerboards on 2-week quick ship</span></li>
+<li><span style=""font-size:8pt;"">(15) Claridge wall mounted 4'x4' Tackboards on 2-week quick ship</span></li>
+<li><span style=""font-size:8pt;"">(16) Claridge wall mounted 4'x8' Markerboards for November shipment</span></li>
+<li><span style=""font-size:8pt;"">(8) Claridge wall mounted 4'x4' Tackboards for November shipment</span></li>
+<li><span style=""font-size:8pt;"">(28) Claridge wall mounted 74EZ 17'x2"" Tack Strips with cork insert on 2-week quick ship</span></li>
+<li><span style=""font-size:8pt;"">(2) Claridge wall mounted 74EZ 20'x2""Tack Strips with cork insert on 2-week quick ship</span></li>
+<li><span style=""font-size:8pt;"">(60) Claridge 74EZES 2"" End Stops</span></li>
+<li><span style=""font-size:8pt;"">Includes maprails, map hooks, flag holders, and flat tray accessories for markerboards</span></li>
+<li><span style=""font-size:8pt;"">Shop Drawings and Samples to be provided for Owner and Architect selection and approval. Material to be supplied per selected Samples and approved Shop Drawings.</span></li>
+<li>
+<span style=""font-size:8pt;"">Includes delivery to jobsite. </span> </li>
+</ol>
+<p style=""text-align:center;""><br><br><span style=""font-size:8pt;""><em><strong>ALL SITE WORKERS MUST BE COMPLIANT WITH THE JESSICA LUNSFORD ACT, WHICH REQUIRES A LEVEL II BACKGROUND CHECK</strong></em></span></p>",9/25/2024,,,,,
+23015.52,Jay's Fencing LLC,Purchase Order,Transformer Enclosure Fence,Synced,Approved,Yes,1375,5220,6595,0,0,0,0,0,6595,,Yes,Jay's Fencing LLC,,34241,6640 Ibis St,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",941-955-3085,941-955-3053,MES-23-015,Bay Haven Bldg 1 Construction,Sarasota,jaysfencing@live.com,"<p>Provide all labor &amp; material to furnish and install 8ft x 5ft 6ft tall black chain link L shaped enclosure one (1) 5ft walk gate. Posts will be plated to concrete. All hardware and labor included. Includes all fencing materials per Sarasota County Schools standard. All material black vinyl coated. Includes expansion anchor or concrete anchors for baseplates. </p>
+<p> </p>
+<p style=""text-align:center;""><span style=""font-size:8pt;""><em><strong>ALL SITE WORKERS MUST BE COMPLIANT WITH THE JESSICA LUNSFORD ACT, WHICH REQUIRES A LEVEL II BACKGROUND CHECK</strong></em></span></p>",11/18/2024,,,,,
+23015.521,KatGlass Studio,Purchase Order,Stained Glass,Synced,Approved,Yes,1000,17778.5,18778.5,0,0,0,0,0,18778.5,,Yes,KatGlass Studio,,33761,29146 US HWY 19 N,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",,727-786-7070,MES-23-015,Bay Haven Bldg 1 Construction,Clearwater,,"<p><span style=""font-size:10pt;"">Provide complete design services for 10 stained glass transoms at The Bay Haven School of Basics Plus. </span></p>
+<p><span style=""font-size:10.0pt;""><br>Includes:</span></p>
+<ul>
+<li><span style=""font-size:10.0pt;"">One (1) site visit</span></li>
+<li><span style=""font-size:10.0pt;"">Concept design development </span></li>
+<li><span style=""font-size:10.0pt;"">One (1) design revision based on owner comments as required.</span></li>
+</ul>
+<br><br><br>
+<p style=""text-align:center;""><em><strong>ALL SITE WORKERS MUST BE COMPLIANT WITH THE JESSICA LUNSFORD ACT, WHICH REQUIRES A LEVEL II BACKGROUND CHECK</strong></em></p>
+<p> </p>",11/21/2024,,,,,
+23015.04,"Play Space Services, Inc.",Subcontract,Playground Installation,Synced,Approved,Yes,280328.13,1500,281828.13,0,0,0,0,0,281828.13,,Yes,"Play Space Services, Inc.",,32934,3127 Skyway Circle #101,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",321-242-2216,321-775-0600,MES-23-015,Bay Haven Bldg 1 Construction,Melbourne,,"<p>$280,328.13</p>
+<p> </p>
+<p>CC 010.11-780.S</p>",1/2/2025,IS NOT,"$2,000,000 ","$2,000,000 ","$2,000,000 ",Mark Freeman
+23015.041,Planet Picasso LLC,Subcontract,Building 1 Landscaping,Synced,Approved,Yes,19793,10370,30163,0,0,0,0,0,30163,,Yes,Planet Picasso LLC,,34234,1878 Northgate Blvd,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",,941-356-2924,MES-23-015,Bay Haven Bldg 1 Construction,Sarasota,,"<p><span style=""text-decoration:underline;"">CE #215 - Bay Haven Building 1 Landscaping</span></p>
+<p>New Subcontract to Planet Picasso for $19,793.00. CC 010.02-800.S</p>
+<p> </p>
+<p>Subcontractor specific scope of work-</p>
+<p>Provide complete landscaping package as outlined below. Includes all necessary labor, materials and equipment to perform the scope of work. </p>
+<p>1. Furnish and install the plantings listed below:</p>
+<ul>
+<li><span style=""font-size:10pt;"">Grasses - Lemon, red feather , white feather, muhly , love , fakahatchee.  Mixed total 160 1g.</span></li>
+<li><span style=""font-size:10pt;"">Dune sunflower – 35 qty, 1g</span></li>
+<li><span style=""font-size:10pt;"">Native lantana – 35 qty, 1g</span></li>
+<li><span style=""font-size:10pt;"">Coffee plant – 15 qty, 7g</span></li>
+<li><span style=""font-size:10pt;"">Mammy croton – 15 qty, 7g</span></li>
+<li><span style=""font-size:10pt;"">Firebush – 25 qty, 7g</span></li>
+<li><span style=""font-size:10pt;"">Thyrallis – 25 qty, 7g</span></li>
+<li><span style=""font-size:10pt;"">Coontie – 15 7g</span></li>
+<li><span style=""font-size:10pt;"">Cardboard – 15 qty, 7g</span></li>
+<li><span style=""font-size:10pt;"">Orange bird paradise – 10 qty, 7g</span></li>
+<li><span style=""font-size:10pt;"">Total plants  350</span></li>
+</ul>
+<p>2. Furnish 1 (one) lot of food forest plantings as substantiated by proof of purchase / receipt at a value of $3,823.00. Installation by others. Includes delivery and offloading of material at the planting location. </p>
+<p>3. Includes temporary water, plant material, compost, mulch, planter boxes and bed preparation.</p>
+<p>4. Includes hardscaping material and installation (shell, crushed stone, rip rap, etc.).</p>",1/6/2025,IS NOT,"$1,000,000 ","$1,000,000 ","$1,000,000 ",Josh Tomlinson
+23015.522,New View Cleaning Services Inc,Purchase Order,Final Cleaning Phase II,Synced,Approved,Yes,3700,0,3700,0,0,0,0,0,3700,,Yes,New View Cleaning Services Inc,,34222-4008,2411 10th St Ct E Unit B,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",941-955-4090,941-955-4060,MES-23-015,Bay Haven Bldg 1 Construction,Ellenton,,"<p>Provide final cleaning of phase II north wing. Includes final construction clean of all surfaces, window cleaning inside and out, flooring, etc. </p>
+<p> </p>
+<p style=""text-align:center;""><span style=""font-size:8pt;""><em><strong>ALL SITE WORKERS MUST BE COMPLIANT WITH THE JESSICA LUNSFORD ACT, WHICH REQUIRES A LEVEL II BACKGROUND CHECK</strong></em></span></p>
+<p><span style=""font-size:8pt;""> </span></p>",1/23/2025,,,,,
+23015.523,"R.E. Johnson & Son, Inc.",Purchase Order,Portable Removal - Misc Addtl ,Synced,Approved,Yes,22680,0,22680,0,0,0,0,0,22680,,Yes,"R.E. Johnson & Son, Inc.",,34219,"dba Johnson Housemovers
+6470 Jim Davis Rd",FL,"McIntyre Elwell & Strammer General Contractors, Inc.",941-776-5312,941-776-2632,MES-23-015,Bay Haven Bldg 1 Construction,Parrish,,"<p> </p>
+<p>Provide all labor, materials, and equipment required for Portable Classroom Relocation Project at Bay Haven- Ramps, Piers, Shed work , and to include all accessories required for a complete and proper installation, as required by and in strict accordance with this Purchase Order, and scope of work defined herein.       <br><br><br></p>
+<ol>
+<li>   Relocate 1-14’x10’ shed onsite to new location determined by contractor at Bay Haven School.140 sq ft @$12.00 per sq. ft. Line 9 on Bid#23-0137.    $1,680.00 </li>
+<li>   Trunk Ramp relocation- 30 standard working hours to dismantle, transport, and reassemble trunk ramp on relocated building. 30hrs@$550 per standard working hour. Line 14 on Bid #23-0137 $16,500.00</li>
+<li>   30 additional piers required for 10 buildings. Price includes cost of material and labor for installation. 30 piers @$150 per pier. *No additional retrofits or tie downs were required.   $4,500.00 </li>
+</ol>
+<p style=""text-align:center;""><br><em><strong>ALL SITE WORKERS MUST BE COMPLIANT WITH THE JESSICA LUNSFORD ACT, WHICH REQUIRES A LEVEL II BACKGROUND CHECK<br></strong></em></p>",3/17/2025,,,,,
+23015.524,"Babe's Plumbing, Inc.",Purchase Order,Domestic Backflow Repair,Synced,Approved,Yes,2800,0,2800,0,0,0,0,0,2800,,Yes,"Babe's Plumbing, Inc.",,34275,105 Bluegrass Ct.,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",941-488-4693,941-488-2402,MES-23-015,Bay Haven Bldg 1 Construction,Nokomis,,"<p style=""text-align:left;"">Provide backflow repair of the domestic backflow service at Bay Haven School of Basics Plus. Work performed 3/21/25.<br><br></p>
+<p> </p>
+<p style=""text-align:center;""> <span style=""font-size:8pt;""><strong>ALL SITE WORKERS MUST BE COMPLIANT WITH THE JESSICA LUNSFORD ACT, WHICH REQUIRES A LEVEL II BACKGROUND CHECK</strong></span></p>",3/31/2025,,,,,
+23015.042,"Cardinal Fence, LLC",Subcontract,Perimeter Fencing & Security G,Synced,Approved,Yes,72706,12492,85198,0,0,0,0,0,85198,,Yes,"Cardinal Fence, LLC",,33762,4460 107th Circle N,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",,727-655-9757,MES-23-015,Bay Haven Bldg 1 Construction,Clearwater,,,4/16/2025,IS NOT,"$1,000,000 ","$1,000,000 ","$1,000,000 ",Josh Tomlinson
+23015.525,"Garcia Irrigation, LLC",Purchase Order,East Site Irrigation,Synced,Approved,Yes,6500,4000,10500,0,0,0,0,0,10500,,Yes,"Garcia Irrigation, LLC",,34221,2609 24th Ave East,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",,941-526-5830,MES-23-015,Bay Haven Bldg 1 Construction,Palmetto,,"<p>Provide all labor, materials, and equipment required to completely furnish and install new irrigation per the attached exhibit drawing, and to include all accessories required for a complete and proper installation, as required by and in strict accordance with this Purchase Order, and scope of work defined herein.</p>
+<p> </p>
+<ul>
+<li>Includes all labor, materials and equipment for a complete irrigation installation.</li>
+<li>Includes tie-in to existing pump</li>
+</ul>
+<p> </p>
+<p style=""text-align:center;""><span style=""font-size:8pt;""><em><strong>ALL SITE WORKERS MUST BE COMPLIANT WITH THE JESSICA LUNSFORD ACT, WHICH REQUIRES A LEVEL II BACKGROUND CHECK</strong></em></span></p>
+<p> </p>",4/14/2025,,,,,
+23015.526,"J.P. Services of Sarasota, LLC",Purchase Order,Bldg 5 Core Drilling,Synced,Approved,Yes,850,0,850,0,0,0,0,0,850,,Yes,"J.P. Services of Sarasota, LLC",,34243,"1840 61st Street, Bldg. A",FL,"McIntyre Elwell & Strammer General Contractors, Inc.",941-756-2327,941-587-4362,MES-23-015,Bay Haven Bldg 1 Construction,Sarasota,,"<p>Provide all labor, materials, and equipment required for core drilling at Bay Haven Building #5 restroom, and to include all accessories required for a complete and proper installation, as required by and in strict accordance with this Purchase Order, and scope of work defined herein.</p>
+<p> </p>
+<p style=""text-align:center;""><span style=""font-size:8pt;""><em><strong>ALL SITE WORKERS MUST BE COMPLIANT WITH THE JESSICA LUNSFORD ACT, WHICH REQUIRES A LEVEL II BACKGROUND CHECK</strong></em></span></p>",4/23/2025,,,,,
+23015.527,Construction Moisture,Purchase Order,Bldg 7 Envelope Consultation,Synced,Approved,No,16340,-7742.5,8597.5,0,0,0,0,0,8597.5,,Yes,Construction Moisture,,33610-7368,"Consulting
+4508 Oak Fair Blvd., Ste. 290",FL,"McIntyre Elwell & Strammer General Contractors, Inc.",,813-623-2323,MES-23-015,Bay Haven Bldg 1 Construction,Tampa,,"<p>Provide consulting services for exterior wall construction of the complete Bay Haven building #7. Includes consulting services as outlined by the Services Proposal prepared by Construction Moisture Consulting, CMC project no. 25-04017, included with this purchase order. Excludes a high-reach lift to be provided by others.  <br><br></p>
+<p style=""text-align:center;""><span style=""font-size:8pt;""><em><strong>ALL SITE WORKERS MUST BE COMPLIANT WITH THE JESSICA LUNSFORD ACT, WHICH REQUIRES A LEVEL II BACKGROUND CHECK</strong></em></span></p>",,,,,,
+23015.528,Southland Concrete Creations,Purchase Order, Refurbish Cafeteria Floor,Synced,Approved,Yes,9490,0,9490,0,0,0,0,0,9490,,Yes,Southland Concrete Creations,,34250,PO Box 290,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",(941) 761-5718,941-721-4900,MES-23-015,Bay Haven Bldg 1 Construction,Terra Ceia,,"<p> </p>
+<p>Provide polished concrete refurbishing of the Bay Haven Cafeteria as required by and in strict accordance with the Contract Documents, this Purchase Order, and scope of work defined herein.</p>
+<ul>
+<li>Includes all labor, materials and equipment for a complete refurbishing including high speed diamond burnish.</li>
+<li>All operations to be dustless. Work to be complete prior to 7/11/25. </li>
+</ul>
+<p> </p>
+<p style=""text-align:center;""><span style=""font-size:8pt;""><em><strong>ALL SITE WORKERS MUST BE COMPLIANT WITH THE JESSICA LUNSFORD ACT, WHICH REQUIRES A LEVEL II BACKGROUND CHECK</strong></em></span></p>
+<p> </p>
+<p> </p>",5/22/2025,,,,,
+23015.529,Fisher Engineering,Purchase Order, Turf Area Drainage Design,Synced,Approved,Yes,13230,0,13230,0,0,0,0,0,13230,,Yes,Fisher Engineering,,342340,1817 Pinyon Pine Drive,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",,941-203-8565,MES-23-015,Bay Haven Bldg 1 Construction,Sarasota,,<p>Provide additional design services for the North Site Play Area as outlined by Fisher Engineering's proposal dated 6/4/25. </p>,7/17/2025,,,,,
+23015.53,Spectra Contract Flooring,Purchase Order,PE Office Carpet,Synced,Approved,Yes,1384,0,1384,0,0,0,0,0,1384,,Yes,Spectra Contract Flooring,,33605,1802 Grant St  Ste 200,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",941-351-7740,941-351-7710,MES-23-015,Bay Haven Bldg 1 Construction,Tampa,,"<p><span style=""font-size:14.0pt;"">Furnish and install Tarkett Assertive Action Forge 6' carpet and 4"" black base in PE Office room 501. Includes scarification of existing floor as required. </span></p>
+<p> </p>
+<p><span style=""font-size:14.0pt;""><em><strong><span style=""font-size:9.5pt;"">ALL SITE WORKERS MUST BE COMPLIANT WITH THE JESSICA LUNSFORD ACT, WHICH REQUIRES A LEVEL II BACKGROUND CHECK</span></strong></em></span></p>
+<p> </p>",8/12/2025,,,,,
+23015.531,"Athletic Resources, Inc.",Purchase Order,Basketball Hoops,Synced,Approved,Yes,14900,0,14900,0,0,0,0,0,14900,,Yes,"Athletic Resources, Inc.",,34109,8162 Lowbank Dr,FL,"McIntyre Elwell & Strammer General Contractors, Inc.",,239-793-8900,MES-23-015,Bay Haven Bldg 1 Construction,Naples,,"<p>Furnish and install three (3) Jaypro Sports CMSS column mounted shooting stations as outlined below:</p>
+<ol>
+<li>Includes all labor, materials and equipment for a complete basketball hoop installation in accordance with the manufacturer's installation instructions. </li>
+<li>Includes drilling metal building column flanges for installation. Includes all required hardware. </li>
+<li>Basketball goals to be installed level. Installation heights to be provided prior to mobilization. </li>
+<li>Includes clean-up of work area upon completion of installation. </li>
+<li>Includes installation of three hoops via a single mobilization. Work to be performed on a Saturday or non-school hours. </li>
+</ol>
+<p style=""text-align:center;""><span style=""font-size:8pt;""><em><strong>ALL SITE WORKERS MUST BE COMPLIANT WITH THE JESSICA LUNSFORD ACT, WHICH REQUIRES A LEVEL II BACKGROUND CHECK</strong></em></span></p>",11/12/2025,,,,,
